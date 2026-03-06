@@ -1,0 +1,7 @@
+{
+  "name": "G-Pay Clone with AI Insights",
+  "description": "A high-fidelity digital wallet application clone inspired by Google Pay, featuring transaction management, contact payments, and AI-driven financial insights using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
