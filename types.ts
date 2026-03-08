@@ -25,4 +25,4 @@ export interface SpendingInsight {
   topCategory: string;
 }
 
-export type ViewType = 'home' | 'activity' | 'pay' | 'insights' | 'profile';
+export type ViewType = 'home' | 'activity' | 'pay' | 'insights' | 'profile' | 'scan' | 'recharge';
